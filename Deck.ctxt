@@ -1,0 +1,26 @@
+#BlueJ class context
+comment0.params=colour\ spaces\ clubs\ hearts\ diamonds
+comment0.target=Deck(Card.Colour,\ int,\ int,\ int,\ int)
+comment0.text=\r\n\ Create\ a\ customised\ deck\ of\ a\ certain\ colour\r\n\ @param\ colour\ the\ colour\ of\ the\ deck\ and\ the\ suits\ required\r\n
+comment1.params=
+comment1.target=void\ fill()
+comment1.text=\r\n\ Fill\ the\ deck\ with\ a\ complete\ set\ of\ cards.\ Get\ rid\ of\ any\ cards\r\n\ still\ in\ the\ deck.\r\n
+comment2.params=
+comment2.target=void\ shuffle()
+comment2.text=\r\n\ Shuffle\ the\ deck\r\n
+comment3.params=
+comment3.target=void\ setColour()
+comment3.text=\r\n\ Set\ the\ deck\ to\ a\ certain\ colour\r\n
+comment4.params=
+comment4.target=Card\ drawCard()
+comment4.text=\r\n\ Draw\ a\ card\ from\ the\ deck.\r\n\ @return\ the\ card\ that's\ been\ drawn,\ or\ null\ if\ no\ cards\ are\ left.\r\n
+comment5.params=
+comment5.target=int\ getSize()
+comment5.text=\r\n\ Get\ the\ size\ of\ the\ deck\r\n\ @return\ the\ number\ of\ cards\ left\ in\ the\ deck\r\n
+comment6.params=
+comment6.target=Card\ drawFlippedCard()
+comment6.text=\r\n\ Draw\ a\ card\ from\ the\ deck\ but\ flip\ it\r\n\ @return\ the\ card\ that's\ been\ drawn,\ or\ null\ if\ no\ cards\ are\ left.\r\n
+comment7.params=
+comment7.target=void\ act()
+comment7.text=\r\n\ Act\ -\ do\ whatever\ the\ Deck\ wants\ to\ do.\ This\ method\ is\ called\ whenever\r\n\ the\ 'Act'\ or\ 'Run'\ button\ gets\ pressed\ in\ the\ environment.\r\n
+numComments=8
